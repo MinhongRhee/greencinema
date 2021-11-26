@@ -25,3 +25,5 @@ create database greendb;
 
 ""
 
+시연영상주소
+https://youtu.be/-tLxxQPC7-o
